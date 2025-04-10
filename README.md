@@ -24,3 +24,13 @@ This repository contains materials and resources for designing and implementing 
    - Diagrams to ensure that the cabling infrastructure is optimized for performance and scalability.
 
 
+---
+
+
+---
+
+### 👨‍💻 Author
+
+**Daniel Olivar**  
+Computer Engineer
+[GitHub: @DanielOlivar](https://github.com/DanielOlivar)
