@@ -19,11 +19,7 @@ This repository contains materials and resources for designing and implementing 
    - **`final_project.pkt`**: The final simulation file for the network setup.
    - Cisco Packet Tracer is used to simulate the network configuration and verify its design.
 
-3. **Connection Diagrams** 📊:  
-   - Diagrams showing the physical layout of devices and connections.
-   - Logical diagrams explaining how data flows through the network.
-
-4. **Structured Cabling Diagrams** 🛠️:  
+3. **Structured Cabling Diagrams** 🛠️:  
    - Layouts for structured cabling based on industry standards.
    - Diagrams to ensure that the cabling infrastructure is optimized for performance and scalability.
 
